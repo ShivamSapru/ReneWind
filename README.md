@@ -24,7 +24,7 @@ The nature of predictions made by the classification model will translate as fol
   * False positives (FP) are detections in a wind turbine where there is no failure.
 So, the maintenance cost associated with the model would be:
 
-###Maintenance cost### = TP*(Repair cost) + FN*(Replacement cost) + FP*(Inspection cost) where,
+### Maintenance cost ### = TP*(Repair cost) + FN*(Replacement cost) + FP*(Inspection cost) where,
 
 Replacement cost = $40,000
 Repair cost = $15,000
